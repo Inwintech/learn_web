@@ -4,3 +4,4 @@ _pycache_
 *.log
 config.py
 env
+*.db
